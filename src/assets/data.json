@@ -1,0 +1,157 @@
+{
+  "categories": [
+    {
+      "value": 40,
+      "heading": "Laptops"
+    },
+
+    {
+      "value": 100,
+      "heading": "Shoes"
+    },
+    {
+      "value": 80,
+      "heading": "Cameras"
+    },
+    {
+      "value": 60,
+      "heading": "Jeans"
+    }
+  ],
+
+  "transaction": [
+    {
+      "_id": "Shashi Kumar Soni",
+      "amount": 4000,
+      "quantity": 4,
+      "discount": 300,
+      "status": "Processing"
+    },
+    {
+      "_id": " Akash Kumar",
+      "amount": 5100,
+      "quantity": 2,
+      "discount": 900,
+      "status": "Processing"
+    },
+    {
+      "_id": "Ashish Basi",
+      "amount": 13000,
+      "quantity": 91,
+      "discount": 0,
+      "status": "Shipped"
+    },
+    {
+      "_id": "Chiti ",
+      "amount": 2300,
+      "quantity": 4,
+      "discount": 2000,
+      "status": "Processing"
+    },
+    {
+      "_id": "Rahual ",
+      "amount": 13000,
+      "quantity": 91,
+      "discount": 0,
+      "status": "Shipped"
+    },
+    {
+      "_id": "Neha Mehta",
+      "amount": 9500,
+      "quantity": 32,
+      "discount": 150,
+      "status": "Processing"
+    },
+    {
+      "_id": "Ravi Kumar",
+      "amount": 7000,
+      "quantity": 17,
+      "discount": 500,
+      "status": "Delivered"
+    },
+    {
+      "_id": "Sneha Roy",
+      "amount": 12800,
+      "quantity": 45,
+      "discount": 200,
+      "status": "Cancelled"
+    },
+    {
+      "_id": "Arjun Singh",
+      "amount": 15600,
+      "quantity": 67,
+      "discount": 300,
+      "status": "Processing"
+    },
+    {
+      "_id": "Kiran Desai",
+      "amount": 10200,
+      "quantity": 23,
+      "discount": 120,
+      "status": "Shipped"
+    },
+    {
+      "_id": "Rahul Verma",
+      "amount": 8600,
+      "quantity": 39,
+      "discount": 0,
+      "status": "Delivered"
+    },
+    {
+      "_id": "Meera Shah",
+      "amount": 13400,
+      "quantity": 51,
+      "discount": 450,
+      "status": "Processing"
+    },
+    {
+      "_id": "Tanmay Joshi",
+      "amount": 7900,
+      "quantity": 29,
+      "discount": 180,
+      "status": "Shipped"
+    },
+    {
+      "_id": "Divya Patel",
+      "amount": 11200,
+      "quantity": 41,
+      "discount": 100,
+      "status": "Delivered"
+    },
+    {
+      "_id": "Ajay Yadav",
+      "amount": 9900,
+      "quantity": 35,
+      "discount": 250,
+      "status": "Cancelled"
+    },
+    {
+      "_id": "Pooja Nair",
+      "amount": 8700,
+      "quantity": 26,
+      "discount": 300,
+      "status": "Processing"
+    },
+    {
+      "_id": "Sandeep Rawat",
+      "amount": 14600,
+      "quantity": 63,
+      "discount": 500,
+      "status": "Delivered"
+    },
+    {
+      "_id": "Isha Kapoor",
+      "amount": 9300,
+      "quantity": 30,
+      "discount": 100,
+      "status": "Shipped"
+    },
+    {
+      "_id": "Manoj Sinha",
+      "amount": 12100,
+      "quantity": 49,
+      "discount": 220,
+      "status": "Processing"
+    }
+  ]
+}
